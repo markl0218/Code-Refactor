@@ -10,4 +10,4 @@ The Horiseon Website was refactored to include alt attributes on all images and 
 The source code for the website was put into semantic order and classes were consolidated
 <p>
 
-<img source= "https://drive.google.com/file/d/1RG74AA9I1yVT9mL2DXq06DxuPFLVQJAZ/view?usp=sharing"
+<img source= "https://drive.google.com/file/d/1RG74AA9I1yVT9mL2DXq06DxuPFLVQJAZ/view?usp=sharing">
